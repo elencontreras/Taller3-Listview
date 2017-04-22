@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TallerListView</string>
+    <string name="opciones">Opciones</string>
+    <string name="areas">Areas</string>
+    <string name="cuadrado">Cuadrado</string>
+    <string name="valorCuadrado">Valor del lado</string>
+    <string name="borrar">Borrar</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultado">Resultado</string>
+    <string name="ok">OK</string>
+    <string name="area">Area:</string>
+    <string name="triangulo">Triangulo</string>
+    <string name="base">Ingrese Base</string>
+    <string name="altura">Ingrese Altura</string>
+    <string name="opeRealizadas">Operaciones Realizadas</string>
+    <string name="mensajeError">Ingresar valor</string>
+    <string name="no">No.</string>
+    <string name="operacion">Operación</string>
+    <string name="datos">Datos</string>
+    <string-array name="opciones">
+        <item>@string/areas</item>
+        <item>@string/opeRealizadas</item>
+    </string-array>
+    <string-array name="areas">
+        <item>@string/cuadrado</item>
+        <item>@string/triangulo</item>
+
+    </string-array>
+
+</resources>
